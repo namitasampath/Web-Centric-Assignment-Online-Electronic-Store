@@ -121,3 +121,11 @@ http://localhost/M&N-Electronics/index.php
 ## 👩‍💻 Authors
 **Namita Sampath, Mahima Krishnamurthy**  
 
+---
+
+Screenshots:
+<img width="1873" height="783" alt="Screenshot 2026-01-21 143631" src="https://github.com/user-attachments/assets/09dd57fd-10ae-4281-bcb0-5be2c7620e82" />
+
+<img width="1906" height="812" alt="image" src="https://github.com/user-attachments/assets/d7e214a8-1535-4579-89fd-eb6ad0478a48" />
+
+<img width="1884" height="765" alt="image" src="https://github.com/user-attachments/assets/280965c5-4d35-4814-b39d-039a86fe2312" />
