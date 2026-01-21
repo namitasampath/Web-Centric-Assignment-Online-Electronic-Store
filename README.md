@@ -42,7 +42,7 @@ M&N Electronics is a web-based electronics shopping application developed using 
 M&N-Electronics/
 │
 ├── images/
-│   ├── products/        # Product images
+│   │ # Product images
 │   └── users/           # User profile images
 │
 ├── admin_dashboard.php
